@@ -4,7 +4,6 @@ const mongoose = require('mongoose');
 const Blog = require('./models/blog');
 
 // express app
-
 const app = express();
 
 // Connect to MongoDB..... uncomment to connect to the Database
